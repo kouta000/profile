@@ -95,3 +95,23 @@ About
   #about .text {
     text-align: left;
   }
+
+/*-------------------------------------------
+Bicycle
+-------------------------------------------*/
+#bicycle ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  #bicycle li {
+    width: 32%;
+  }
+
+/*-------------------------------------------
+footer
+-------------------------------------------*/
+#footer {
+    font-size: 0.5rem;
+    padding: 10px 0;
+    text-align: center;
+  }
